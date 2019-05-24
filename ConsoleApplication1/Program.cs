@@ -14,7 +14,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //RemoveToken("region=TAP&country=US&lang=en&mpn=PSA72U-0FZ02F&sn=4H012345Z&bpn=G71C000BE510&bsn=B8100379APW&n=1453927594&tok=AECA01B9F6FABE1A5CC1EBC0BA9BA450F555E6A2");
+            RemoveToken("region=TAP&country=US&lang=en&mpn=PSA72U-0FZ02F&sn=4H012345Z&bpn=G71C000BE510&bsn=B8100379APW&n=1453927594&tok=AECA01B9F6FABE1A5CC1EBC0BA9BA450F555E6A2");
             Test();
             return;
             //string·str·=·"n=1453141209&mpn=PTSE3U-06N00G&sn=7H137673A&bpn=G71C000123E00&bsn=EC0001234ABY&region=TAIS&country=US&lang=en";
