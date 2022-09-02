@@ -14,7 +14,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.Write("hello");
+            Console.Write("hello world");
             RemoveToken("region=TAP&country=US&lang=en&mpn=PSA72U-0FZ02F&sn=4H012345Z&bpn=G71C000BE510&bsn=B8100379APW&n=1453927594&tok=AECA01B9F6FABE1A5CC1EBC0BA9BA450F555E6A2");
             Test();
             return;
